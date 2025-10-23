@@ -15,4 +15,4 @@ function Navbar({ cartCount, isLoggedIn, onLogout}) {
   );
 }
 
-export default Navbar;
+export default Navbar--;
